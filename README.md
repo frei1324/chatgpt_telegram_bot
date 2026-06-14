@@ -139,32 +139,5 @@ config/
   chat_modes.yml   # chat-mode prompts
 ```
 
-## 🛠️ Tech stack
 
-[python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) 20.x · [OpenAI Python SDK](https://github.com/openai/openai-python) 1.x · MongoDB · Docker · Python 3.12
 
-## 📰 Changelog highlights
-
-- **Jun 2026** — Switched image generation to **gpt-image-1**, refreshed the model menu and pricing.
-- **Mar 2026** — Added [OpenRouter](https://openrouter.ai/) support → **Claude** (Opus / Sonnet / Haiku) and **GPT-5.5**.
-- **Feb 2026** — Migrated to the OpenAI Python 1.x SDK; Docker now runs on Python 3.12.
-- **2025** — Config-driven model catalog: add or swap models without touching code.
-
-See the full history in [CHANGELOG.md](CHANGELOG.md).
-
-## ❤️ Top donations
-
-You can be on this list:
-
-1. [LilRocco](https://t.me/LilRocco) — **$11000** (!!!)
-2. [Mr V](https://t.me/mr_v_v_v) — **$250**
-3. [unexpectedsunday](https://t.me/unexpectedsunday) — **$150**
-
-## 📄 License
-
-[MIT](LICENSE) — do whatever you want, just keep the notice.
-
-<div align="center">
-<br/>
-⭐ <b>If this project saved you time, give it a star!</b> ⭐
-</div>
